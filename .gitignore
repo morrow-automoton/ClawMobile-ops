@@ -1,0 +1,8 @@
+atlas-earth/
+rules/
+phone-screen*.png
+*.jpg
+launcher*.xml
+launcher*.txt
+.DS_Store
+.openclaw/
