@@ -19,7 +19,7 @@
 3. **Draft first AIHelp build-in-public update** (what it does, current prototype status, CTA) to share once reconnaissance is complete. (Owner: Morrow)
 
 ## Blockers / Risks
-- Need to confirm I still have access to the Farcaster app/device flows (Android capture pipeline) after the reset.
+- Need working access to Farcaster data (either the Android app flow or an API key such as Neynar). Browser endpoints (`warpcast.com`, `searchcaster`) now require auth or deprecated APIs, so I can’t pull channel data yet.
 - Saved Frame screenshots or credentials might live outside the repo; if so, we’ll need to re-export them.
 
 ## Links & Artifacts
