@@ -12,6 +12,7 @@
 - Reworked the daily Frame list into a data-capture template (`apps/daily_checkins.md`) to record steps, rewards, fees, and automation hooks per app.
 - Logged initial project briefs for AIHelp, Formexpert, and HouseOfGenius (`project_briefs.md`).
 - Added automated git backups + project status templates so progress survives resets.
+- Spun up a dedicated recovery track (`recovery/STATUS.md`) so tooling/setup blockers get cleared in parallel.
 
 ## Next 3 Actions
 1. **Run each saved Frame once** (Minted Merch, Betrmint, Hackwheel, etc.), document the exact flow + timing + rewards in `apps/daily_checkins.md`, and note any fees/thresholds. (Owner: Morrow)
