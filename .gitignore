@@ -6,3 +6,5 @@ launcher*.xml
 launcher*.txt
 .DS_Store
 .openclaw/
+
+!/mobile/atlas-earth/
